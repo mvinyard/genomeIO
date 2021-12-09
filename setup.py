@@ -19,6 +19,7 @@ setup(
     ],
     
     install_requires=[
+	"pandas>=1.3.4",
     ],
     classifiers=[
         "Development Status :: 2 - Pre-Alpha",
